@@ -1,0 +1,4 @@
+File → Preferences → Additional Boards Manager URLs:
+
+https://ludvikalkhoury.github.io/tinzr-boards-index/package_tinzr_index.json
+
