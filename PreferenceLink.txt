@@ -1,4 +1,4 @@
 File → Preferences → Additional Boards Manager URLs:
 
-https://ludvikalkhoury.github.io/tinzr-boards-index/package_tinzr_index.json
+https://ludvikalkhoury.github.io/arduino-esp32-tinzr/package_tinzr_index.json
 
