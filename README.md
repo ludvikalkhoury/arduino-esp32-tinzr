@@ -4,7 +4,7 @@ This repository contains the **TinZr**, an ESP32-C3-based custom board definitio
 It provides a clean, Boards-Manager-installable package so anyone can use your board with one simple URL.
 
 ## Publication Status
-The manuscript describing this work is available at: https://www.sciencedirect.com/science/article/pii/S246806722600101X
+The manuscript describing this work is available at: https://www.sciencedirect.com/science/article/pii/S246806722600101X.
 It is also included in this repository (`TinZr_Manuscript.pdf`). 
 The materials in this repository correspond to the submitted version of the work.
 
