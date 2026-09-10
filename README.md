@@ -7,7 +7,7 @@ It provides a clean, Boards-Manager-installable package so anyone can use your b
 The manuscript describing this work is available at: https://www.sciencedirect.com/science/article/pii/S246806722600101X.
 It is also included in this repository (`TinZr_Manuscript.pdf`). 
 
-Additionally, all production materials, including printed circuit board (PCB) design files, 3D-printable enclosure models, and component lists are available at: the https://zenodo.org/records/21892119
+Additionally, all production materials, including printed circuit board (PCB) design files, 3D-printable enclosure models, and component lists, are available at: https://zenodo.org/records/21892119
 
 If you use this work, please cite:
 > **Alkhoury, L.**, Moore, T., Swissler, P., Hill, N. J., Shah, S. A., & Kam, M. (2026). TinZr: A compact wireless ESP32-C3 platform for multi-modal physiological sensor integration and data acquisition. HardwareX, e00833.
